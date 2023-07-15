@@ -1,10 +1,4 @@
 //write your code here to make the tests pass
-// set speed(speed) {
-//     if (speed < 0) {
-//         return console.log("Speed must be positive")
-//     }
-//     this._speed = speed
-// }
 
 class Document {
     constructor(EmployeeName) {
